@@ -16,7 +16,7 @@ Make sure you have installed all of the following prerequisites on your developm
 The recommended way to get Medium-clone clone is to use git to directly clone the repository:
 
 ```bash
-$ git clone https://github.com/nisabmohd/Medium-clone.git
+$ git clone https://github.com/DheerajAbhishek/SubSphere.git
 ```
 
 ## Environment variables React setup
