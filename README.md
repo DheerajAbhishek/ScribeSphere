@@ -1,4 +1,4 @@
-# Medium clone - complete full stack application
+# ScribeSphere - complete full stack application
 
 This clone is made with React, Node, Express, Typescript and MongoDB.
 
@@ -16,7 +16,7 @@ Make sure you have installed all of the following prerequisites on your developm
 The recommended way to get Medium-clone clone is to use git to directly clone the repository:
 
 ```bash
-$ git clone https://github.com/DheerajAbhishek/SubSphere.git
+$ git clone https://github.com/DheerajAbhishek/ScribeSphere.git
 ```
 
 ## Environment variables React setup
